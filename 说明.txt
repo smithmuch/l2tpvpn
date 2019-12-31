@@ -1,0 +1,3 @@
+wget --no-check-certificate https://raw.githubusercontent.com/smithmuch/l2tpvpn/master/l2tp-ipsec-install-script-for-centos7.sh
+chmod +x l2tp-ipsec-install-script-for-centos7.sh
+./l2tp-ipsec-install-script-for-centos7.sh
